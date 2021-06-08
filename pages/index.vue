@@ -10,7 +10,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation hanggar
+          Documentation hanggar wahyu
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
